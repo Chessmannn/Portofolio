@@ -1,3 +1,1 @@
-## Web Portofolio
-
- Git hub :https://github.com/Chessmannn
+https://chessmannn.github.io/Portofolio/
